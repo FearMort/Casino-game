@@ -1,0 +1,3 @@
+A simple casino game where you chose between two colors, those being black, and white.
+The computer uses the random() function to itself chose a color. If your color matches that of the computers...
+Well then consider yourself lucky, because you just won a heck ton of cash!
